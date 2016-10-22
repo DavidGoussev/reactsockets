@@ -4,22 +4,27 @@
 
 stack used:
 
-*reactjs
-*immutable.js
-*rxjs
-*socket.io
-*nodejs & express
-*materialize
+**reactjs
+
+**immutable.js
+
+**rxjs
+
+**socket.io
+
+**nodejs & express
+
+**materialize
 
 
 setup:
 
-$ npm install webpack -g
+        $ npm install webpack -g
 
-$ npm install
+        $ npm install
 
-$ webpack
+        $ webpack
 
-$ node server.js
+        $ node server.js
 
 open browser to `localhost:5002`
